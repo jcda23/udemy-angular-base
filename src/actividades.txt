@@ -1,0 +1,12 @@
+
+
+crea nuevo componente agregar settings_input_component
+desde h3 hasta el cierre del form
+
+mover nuevo y metodo de agregar()
+
+recibir los personajes como un @Input
+
+
+crear otro @Input para manejar la propiedad nuevo
+
